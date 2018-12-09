@@ -1,9 +1,5 @@
-package a3;
+
 //-----------------------------------------------------------------------
-//Assignment 3
-//Written by: Jinchen Hu ID#40080398
-//For COMP 248 Section FF 2182 - Fall 2018
-//
 //This a program is about generating a road map of matches and related
 //goal statistics in the FIFA World Cup Final.The user enter a team, and 
 //it will execute loop until the team entered win the final or up to the
